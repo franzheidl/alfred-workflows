@@ -1,6 +1,6 @@
 Alfred Workflows
 ================
-Workflows for [Alfred](http://www.alfredapp.com/).
+Workflows for [Alfred](http://www.alfredapp.com/) 2 beta.
 
 Open With Chocolat
 ---
