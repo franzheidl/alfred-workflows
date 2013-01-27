@@ -16,7 +16,7 @@ Open files or a folders in [Chocolat](http://www.chocolatapp.com) by using a Key
 
 Open with Sublime Text 2
 ---
-Open files or a folders in [Sublime](http://www.sublimetext.com/) by using a Keyword ("owc") or by file/folder action.
+Open files or a folders in [Sublime](http://www.sublimetext.com/) by using a Keyword ("ows") or by file/folder action.
 
 Open with Textmate 2
 ---
