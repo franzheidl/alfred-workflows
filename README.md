@@ -2,6 +2,14 @@ Alfred Workflows
 ================
 Workflows for [Alfred](http://www.alfredapp.com/) 2 beta.
 
+Run Terminal Command Here
+---
+![Run Terminal Command Here Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/cdh_git-status.png)
+
+Run a Terminal command in your currently open Finder directory by using keyword "cdh" and the Terminal command you want to run: "cdh [your command]". If you don't supply a command, the Terminal will cd into your currently open Finder directory.
+
+If there is no folder currently open in Finder, your command will be run in your Desktop folder.
+
 Compass Create Watch
 ---
 
