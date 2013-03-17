@@ -10,6 +10,12 @@ Run a Terminal command in your currently open Finder directory by using keyword 
 
 If there is no folder currently open in Finder, your command will be run in your Desktop folder.
 
+The workflow will by default execute your command in the first non-busy Terminal window it finds, otherwise open a new one.
+
+**Update March-17-2013**
+
+Added option: To explicitly run the command in a new Terminal window, press [alt] when firing your command in Alfred 2.
+
 Compass Create Watch
 ---
 
