@@ -1,6 +1,4 @@
 on alfred_script(q)
-
-  tell application "Finder"
     set finderSelection to ""
     set theTarget to ""
     set appPath to path to application "Chocolat"
@@ -9,26 +7,38 @@ on alfred_script(q)
     -- set defaultTarget to (path to desktop folder as alias)
 
     if (q as string) is "" then
-      set finderSelection to (get selection)
-      if length of finderSelection is greater than 0 then
-        set theTarget to finderSelection
-      else
-        try
-          set theTarget to (folder of the front window as alias)
-        on error
-          set theTarget to defaultTarget
-        end try
-      end if
+      tell application "Finder"
+            set finderSelection to (get selection)
+            if length of finderSelection is greater than 0 then
+                set theTarget to finderSelection
+            else
+                try
+                    set theTarget to (folder of the front window as alias)
+                on error
+                    set theTarget to defaultTarget
+                end try
+            end if
+        end tell
     else
-      try
-        set theTarget to ((POSIX file q) as alias)
-      on error
-        set theTarget to defaultTarget
-      end try
+        try
+            set targets to {}
+            set oldDelimiters to text item delimiters
+            set text item delimiters to tab
+            set qArray to every text item of q
+            set text item delimiters to oldDelimiters
+            repeat with atarget in qArray
+                set targetAlias to ((POSIX file atarget) as alias)
+                set targets to targets & targetAlias
+            end repeat
+
+            set theTarget to targets
+        on error
+            set theTarget to defaultTarget
+        end try
     end if
 
-    open theTarget using appPath
-
-  end tell
+    tell application "Finder"
+      open theTarget using appPath
+    end tell
 
 end alfred_script

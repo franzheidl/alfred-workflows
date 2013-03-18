@@ -1,6 +1,6 @@
 Alfred Workflows
 ================
-Workflows for [Alfred](http://www.alfredapp.com/) 2 beta.
+Workflows for [Alfred](http://www.alfredapp.com/) 2.
 
 Run Terminal Command Here
 ---
