@@ -10,7 +10,7 @@ on run theQuery
 		
 		set targetPath to quoted form of (the POSIX path of targetFolder)
 		
-		if theQuery is not "" then
+		if (theQuery as string) is not "" then
 			set theCommand to "cd " & targetPath & " && " & (theQuery as string)
 		else
 			set theCommand to "cd " & targetPath
