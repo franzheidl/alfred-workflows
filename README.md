@@ -12,6 +12,7 @@ If there is no folder currently open in Finder, your command will be run in your
 
 The workflow will by default execute your command in the first non-busy Terminal window it finds, otherwise open a new one.
 
+
 **Update March-17-2013**
 
 Added option: To explicitly run the command in a new Terminal window, press [alt] when firing your command in Alfred 2.
@@ -25,13 +26,30 @@ Create a [Compass](http://compass-style.org/) project and watch it immediately. 
 
 Open With Chocolat
 ---
-Open files or a folders in [Chocolat](http://www.chocolatapp.com) by using a Keyword ("owc") or by file/folder action.
+![Open With Chocolat Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/choc.png)
 
+Open files or a folders in [Chocolat](http://www.chocolatapp.com) by using a Keyword `choc` or by file/folder action.
+
+**Update June-2-2013**
+
+Change keyword to `choc`.
 
 Open with Sublime Text 2
 ---
-Open files or a folders in [Sublime](http://www.sublimetext.com/) by using a Keyword ("ows") or by file/folder action.
+![Open With Sublime Text 2 Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/subl.png)
+
+Open files or a folders in [Sublime](http://www.sublimetext.com/) by using a Keyword `subl` or by file/folder action.
+
+**Update June-2-2013**
+
+Change keyword to `subl`.
 
 Open with Textmate 2
 ---
-Open files or a folders in [Textmate 2](https://github.com/textmate/textmate) by using a Keyword ("owtm") or by file/folder action.
+![Open With Textmate 2 Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/mate.png)
+
+Open files or a folders in [Textmate 2](https://github.com/textmate/textmate) by using a Keyword `mate` or by file/folder action.
+
+**Update June-2-2013**
+
+Change keyword to `mate`.
