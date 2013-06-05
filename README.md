@@ -30,6 +30,13 @@ Open With Chocolat
 
 Open files or a folders in [Chocolat](http://www.chocolatapp.com) by using a Keyword `choc` or by file/folder action.
 
+**Update June-5-2013**
+
+Expand tile shortcut `~`when user enters an optional path.
+
+![Open With Chocolat Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/choc_path.png)
+
+
 **Update June-2-2013**
 
 Change keyword to `choc`.
@@ -40,6 +47,13 @@ Open with Sublime Text 2
 
 Open files or a folders in [Sublime](http://www.sublimetext.com/) by using a Keyword `subl` or by file/folder action.
 
+**Update June-5-2013**
+
+Expand tile shortcut `~`when user enters an optional path.
+
+![Open With Sublime Text 2 Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/subl_path.png)
+
+
 **Update June-2-2013**
 
 Change keyword to `subl`.
@@ -49,6 +63,12 @@ Open with Textmate 2
 ![Open With Textmate 2 Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/mate.png)
 
 Open files or a folders in [Textmate 2](https://github.com/textmate/textmate) by using a Keyword `mate` or by file/folder action.
+
+**Update June-5-2013**
+
+Expand tile shortcut `~`when user enters an optional path.
+
+![Open With Textmate 2 Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/mate_path.png)
 
 **Update June-2-2013**
 
