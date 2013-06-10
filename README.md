@@ -32,7 +32,7 @@ Open files or a folders in [Chocolat](http://www.chocolatapp.com) by using a Key
 
 **Update June-5-2013**
 
-Expand tile shortcut `~`when user enters an optional path.
+Expand tilde shortcut `~/` if user enters an optional path.
 
 ![Open With Chocolat Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/choc_path.png)
 
@@ -49,7 +49,7 @@ Open files or a folders in [Sublime](http://www.sublimetext.com/) by using a Key
 
 **Update June-5-2013**
 
-Expand tile shortcut `~`when user enters an optional path.
+Expand tilde shortcut `~/` if user enters an optional path.
 
 ![Open With Sublime Text 2 Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/subl_path.png)
 
@@ -66,7 +66,7 @@ Open files or a folders in [Textmate 2](https://github.com/textmate/textmate) by
 
 **Update June-5-2013**
 
-Expand tile shortcut `~`when user enters an optional path.
+Expand tilde shortcut `~/` if user enters an optional path.
 
 ![Open With Textmate 2 Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/mate_path.png)
 
