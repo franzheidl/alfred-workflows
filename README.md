@@ -70,8 +70,8 @@ Open files or folders in [Sublime Text v3](http://www.sublimetext.com/3) by usin
 Expand tilde shortcut `~/` if user enters an optional path.
 
 
-*** Note:
-Both Open-With-Sublime-Text Workflows come with `subl`, Sublime's CL Tool name, as their keyword. If you plan using both versions of Sublime as well as both Workflows in parallel, it might be a good idea to change the keyword of one of the workflows to `subl2` or `subl3`respectively – or whatever else you prefer.***
+***Note:
+Both Open-With-Sublime-Text Workflows come with `subl`, Sublime's CL Tool name, as their keyword. If you plan using both versions of Sublime as well as both Workflows in parallel, it might be a good idea to change the keyword of one of the workflows to `subl2` or `subl3` respectively – or whatever else you prefer.***
 
 
 Open with Textmate 2
