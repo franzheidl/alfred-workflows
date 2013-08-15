@@ -45,7 +45,7 @@ Open with Sublime Text 2
 ---
 ![Open With Sublime Text 2 Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/subl.png)
 
-Open files or folders in [Sublime](http://www.sublimetext.com/) by using a Keyword `subl` or by file/folder action.
+Open files or folders in [Sublime Text 2](http://www.sublimetext.com/) by using a Keyword `subl` or by file/folder action.
 
 **Update June-5-2013**
 
@@ -57,6 +57,22 @@ Expand tilde shortcut `~/` if user enters an optional path.
 **Update June-2-2013**
 
 Change keyword to `subl`.
+
+
+Open with Sublime Text (v3)
+---
+![Open With Sublime Text v3 Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/subl_3.png)
+
+Open files or folders in [Sublime Text v3](http://www.sublimetext.com/3) by using a Keyword `subl` or by file/folder action.
+
+![Open With Sublime Text v3 Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/subl_3_path.png)
+
+Expand tilde shortcut `~/` if user enters an optional path.
+
+
+*** Note:
+Both Open-With-Sublime-Text Workflows come with `subl`, Sublime's CL Tool name, as their keyword. If you plan using both versions of Sublime as well as both Workflows in parallel, it might be a good idea to change the keyword of one of the workflows to `subl2` or `subl3`respectively – or whatever else you prefer.***
+
 
 Open with Textmate 2
 ---
