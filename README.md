@@ -30,6 +30,12 @@ Open With Chocolat
 
 Open files or folders in [Chocolat](http://www.chocolatapp.com) by using a Keyword `choc` or by file/folder action.
 
+**Update September-26-2016**
+
+File fiter `choc*`+ file or folder name. Action an item in the results to open it in Chocolat.
+
+![Open With Chocolat Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/choc_filefilter.png)
+
 **Update June-5-2013**
 
 Expand tilde shortcut `~/` if user enters an optional path.
@@ -46,6 +52,12 @@ Open with Sublime Text 2
 ![Open With Sublime Text 2 Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/subl.png)
 
 Open files or folders in [Sublime Text 2](http://www.sublimetext.com/) by using a Keyword `subl` or by file/folder action.
+
+**Update September-26-2016**
+
+File fiter `subl*`+ file or folder name. Action an item in the results to open it in Sublime Text 2.
+
+![Open With Chocolat Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/subl_filefilter.png)
 
 **Update June-5-2013**
 
@@ -69,6 +81,12 @@ Open files or folders in [Sublime Text v3](http://www.sublimetext.com/3) by usin
 
 Expand tilde shortcut `~/` if user enters an optional path.
 
+**Update September-26-2016**
+
+File fiter `subl*`+ file or folder name. Action an item in the results to open it in Sublime Text (v3).
+
+![Open With Chocolat Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/subl_filefilter.png)
+
 
 ***Note:
 Both Open-With-Sublime-Text Workflows come with `subl`, Sublime's CL Tool name, as their keyword. If you plan using both versions of Sublime as well as both Workflows in parallel, it might be a good idea to change the keyword of one of the workflows to `subl2` or `subl3` respectively – or whatever else you prefer.***
@@ -79,6 +97,12 @@ Open with Textmate 2
 ![Open With Textmate 2 Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/mate.png)
 
 Open files or folders in [Textmate 2](https://github.com/textmate/textmate) by using a Keyword `mate` or by file/folder action.
+
+**Update September-26-2016**
+
+File fiter `mate*`+ file or folder name. Action an item in the results to open it in Textmate 2.
+
+![Open With Chocolat Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/mate_filefilter.png)
 
 **Update June-5-2013**
 
