@@ -115,6 +115,22 @@ Expand tilde shortcut `~/` if user enters an optional path.
 Change keyword to `mate`.
 
 
+Open with Brackets
+---
+
+![Open With Brackets Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/brackets.png)
+
+Open current Finder files or folders in [Brackets](http://brackets.io) by using a Keyword `brackets` or by file/folder action. You can optionally enter a path to open: `brackets ~/your/path/here`. Search for files or folders to open using `brackets* filename`.
+
+
+Open with Emacs
+---
+
+![Open With Emacs Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/emacs.png)
+
+Open current Finder files or folders in [Emacs](http://emacsformacosx.com) by using a Keyword `emacs` or by file/folder action. You can optionally enter a path to open: `emacs ~/your/path/here`. Search for files or folders to open using `emacs* filename`.
+
+
 More Workflows
 ---
 * [Copy Paths to Clipboard](http://github.com/franzheidl/copy-paths-to-clipboard)
