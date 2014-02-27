@@ -131,6 +131,15 @@ Open with Emacs
 Open current Finder files or folders in [Emacs](http://emacsformacosx.com) by using a Keyword `emacs` or by file/folder action. You can optionally enter a path to open: `emacs ~/your/path/here`. Search for files or folders to open using `emacs* filename`.
 
 
+Open with Atom
+---
+
+![Open With Atom Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/atom.png)
+
+Open current Finder files or folders in [Atom](http://atom.io) by using a Keyword `emacs` or by file/folder action. You can optionally enter a path to open: `emacs ~/your/path/here`. Search for files or folders to open using `emacs* filename`.
+
+
+
 More Workflows
 ---
 * [Copy Paths to Clipboard](http://github.com/franzheidl/copy-paths-to-clipboard)
