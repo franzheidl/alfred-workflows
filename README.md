@@ -136,7 +136,7 @@ Open with Atom
 
 ![Open With Atom Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/atom.png)
 
-Open current Finder files or folders in [Atom](http://atom.io) by using a Keyword `emacs` or by file/folder action. You can optionally enter a path to open: `emacs ~/your/path/here`. Search for files or folders to open using `emacs* filename`.
+Open current Finder files or folders in [Atom](http://atom.io) by using a Keyword `atom` or by file/folder action. You can optionally enter a path to open: `atom ~/your/path/here`. Search for files or folders to open using `atom* filename`.
 
 
 
