@@ -92,15 +92,15 @@ File fiter `subl*`+ file or folder name. Action an item in the results to open i
 Both Open-With-Sublime-Text Workflows come with `subl`, Sublime's CL Tool name, as their keyword. If you plan using both versions of Sublime as well as both Workflows in parallel, it might be a good idea to change the keyword of one of the workflows to `subl2` or `subl3` respectively – or whatever else you prefer.***
 
 
-Open with Textmate 2
+Open with TextMate 2
 ---
-![Open With Textmate 2 Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/mate.png)
+![Open With TextMate 2 Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/mate.png)
 
-Open files or folders in [Textmate 2](https://github.com/textmate/textmate) by using a Keyword `mate` or by file/folder action.
+Open files or folders in [TextMate 2](https://github.com/textmate/textmate) by using a Keyword `mate` or by file/folder action.
 
 **Update September-26-2016**
 
-File fiter `mate*`+ file or folder name. Action an item in the results to open it in Textmate 2.
+File fiter `mate*`+ file or folder name. Action an item in the results to open it in TextMate 2.
 
 ![Open With Chocolat Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/mate_filefilter.png)
 
@@ -108,7 +108,7 @@ File fiter `mate*`+ file or folder name. Action an item in the results to open i
 
 Expand tilde shortcut `~/` if user enters an optional path.
 
-![Open With Textmate 2 Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/mate_path.png)
+![Open With TextMate 2 Screenshot](http://github.com/franzheidl/alfred-workflows/raw/master/screenshots/mate_path.png)
 
 **Update June-2-2013**
 

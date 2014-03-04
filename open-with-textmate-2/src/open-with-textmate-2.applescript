@@ -2,7 +2,7 @@ on alfred_script(q)
 
 set finderSelection to ""
 set theTarget to ""
-set appPath to path to application "Textmate"
+set appPath to path to application "TextMate"
 set defaultTarget to (path to home folder as alias)
 -- comment line above and uncomment line below to open desktop instead of user home when there's no selection or open folder in the Finder:
 -- set defaultTarget to (path to desktop folder as alias)
