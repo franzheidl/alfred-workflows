@@ -30,7 +30,7 @@ Open With Chocolat
 
 Open files or folders in [Chocolat](http://www.chocolatapp.com) by using a Keyword `choc` or by file/folder action.
 
-**Update September-26-2016**
+**Update September-26-2013**
 
 File fiter `choc*`+ file or folder name. Action an item in the results to open it in Chocolat.
 
@@ -53,7 +53,7 @@ Open with Sublime Text 2
 
 Open files or folders in [Sublime Text 2](http://www.sublimetext.com/) by using a Keyword `subl` or by file/folder action.
 
-**Update September-26-2016**
+**Update September-26-2013**
 
 File fiter `subl*`+ file or folder name. Action an item in the results to open it in Sublime Text 2.
 
@@ -81,7 +81,7 @@ Open files or folders in [Sublime Text v3](http://www.sublimetext.com/3) by usin
 
 Expand tilde shortcut `~/` if user enters an optional path.
 
-**Update September-26-2016**
+**Update September-26-2013**
 
 File fiter `subl*`+ file or folder name. Action an item in the results to open it in Sublime Text (v3).
 
@@ -98,7 +98,7 @@ Open with TextMate 2
 
 Open files or folders in [TextMate 2](https://github.com/textmate/textmate) by using a Keyword `mate` or by file/folder action.
 
-**Update September-26-2016**
+**Update September-26-2013**
 
 File fiter `mate*`+ file or folder name. Action an item in the results to open it in TextMate 2.
 
