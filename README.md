@@ -144,7 +144,7 @@ Open with CodeRunner
 
 ![Open With CodeRunner Screenshot](http://github.com/lborgav/alfred-workflows/raw/master/screenshots/crun.png)
 
-Open current Finder files or folders in [CodeRunner](krillapps.com/coderunner/) by using a Keyword `crun` or by file/folder action. You can optionally enter a path to open: `crun ~/your/path/here`. Search for files or folders to open using `crun* filename`.
+Open current Finder files or folders in [CodeRunner](http://krillapps.com/coderunner/) by using a Keyword `crun` or by file/folder action. You can optionally enter a path to open: `crun ~/your/path/here`. Search for files or folders to open using `crun* filename`.
 
 
 More Workflows
