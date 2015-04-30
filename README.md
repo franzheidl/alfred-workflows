@@ -147,6 +147,14 @@ Open with CodeRunner
 Open current Finder files or folders in [CodeRunner](http://krillapps.com/coderunner/) by using a Keyword `crun` or by file/folder action. You can optionally enter a path to open: `crun ~/your/path/here`. Search for files or folders to open using `crun* filename`.
 
 
+Open with  Visual Studio Code
+---
+
+![Open With  Visual Studio Code Screenshot](screenshots/vscode.png)
+
+Open current Finder files or folders in [ Visual Studio Code](https://code.visualstudio.com/) by using a Keyword `vscode` or by file/folder action. You can optionally enter a path to open: `vscode ~/your/path/here`. Search for files or folders to open using `vscode* filename`.
+
+
 More Workflows
 ---
 * [Copy Paths to Clipboard](http://github.com/franzheidl/copy-paths-to-clipboard)
