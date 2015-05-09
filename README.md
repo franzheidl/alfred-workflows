@@ -146,6 +146,13 @@ Open with CodeRunner
 
 Open current Finder files or folders in [CodeRunner](http://krillapps.com/coderunner/) by using a Keyword `crun` or by file/folder action. You can optionally enter a path to open: `crun ~/your/path/here`. Search for files or folders to open using `crun* filename`.
 
+Open with MacVim
+---
+
+![Open With MacVim Screenshot](screenshots/mvim.png)
+
+Open current Finder files or folders in [MacVim](https://github.com/b4winckler/macvim) by using a Keyword `mvim` or by file/folder action. You can optionally enter a path to open: `mvim ~/your/path/here`. Search for files or folders to open using `mvim* filename`.
+
 
 Open with  Visual Studio Code
 ---
