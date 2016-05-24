@@ -162,6 +162,14 @@ Open with  Visual Studio Code
 Open current Finder files or folders in [ Visual Studio Code](https://code.visualstudio.com/) by using a Keyword `vscode` or by file/folder action. You can optionally enter a path to open: `vscode ~/your/path/here`. Search for files or folders to open using `vscode* filename`.
 
 
+Open with IntelliJ IDEA
+---
+
+![Open With IntelliJ IDEA Screenshot](screenshots/intellij_idea.png)
+
+Open current Finder files or folders in [IntelliJ IDEA](https://www.jetbrains.com/idea/) by using a Keyword `idea` or by file/folder action. You can optionally enter a path to open: `idea ~/your/path/here`. Search for files or folders to open using `idea* filename`.
+
+
 More Workflows
 ---
 * [Copy Paths to Clipboard](http://github.com/franzheidl/copy-paths-to-clipboard)
