@@ -30,6 +30,11 @@ Open With Chocolat
 
 Open files or folders in [Chocolat](http://www.chocolatapp.com) by using a Keyword `choc` or by file/folder action.
 
+** Update September-30-2016***
+Open or create a file in the current directory.
+![Open With Chocolat Screenshot](screenshots/choc-open-or-create.png)
+
+
 **Update September-26-2013**
 
 File fiter `choc*`+ file or folder name. Action an item in the results to open it in Chocolat.
