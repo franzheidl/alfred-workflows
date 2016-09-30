@@ -139,6 +139,10 @@ Open with Emacs
 
 Open current Finder files or folders in [Emacs](http://emacsformacosx.com) by using a Keyword `emacs` or by file/folder action. You can optionally enter a path to open: `emacs ~/your/path/here`. Search for files or folders to open using `emacs* filename`.
 
+** Update September-30-2016***
+Open or create a file in the current directory.
+![Open With Emacs Screenshot](screenshots/emacs-open-or-create.png)
+
 
 Open with Atom
 ---
