@@ -127,6 +127,10 @@ Open with Brackets
 
 Open current Finder files or folders in [Brackets](http://brackets.io) by using a Keyword `brackets` or by file/folder action. You can optionally enter a path to open: `brackets ~/your/path/here`. Search for files or folders to open using `brackets* filename`.
 
+** Update September-30-2016***
+Open or create a file in the current directory.
+![Open With Brackets Screenshot](screenshots/brackets-open-or-create.png)
+
 
 Open with Emacs
 ---
@@ -142,6 +146,10 @@ Open with Atom
 ![Open With Atom Screenshot](screenshots/atom.png)
 
 Open current Finder files or folders in [Atom](http://atom.io) by using a Keyword `atom` or by file/folder action. You can optionally enter a path to open: `atom ~/your/path/here`. Search for files or folders to open using `atom* filename`.
+
+** Update September-30-2016***
+Open or create a file in the current directory.
+![Open With Brackets Screenshot](screenshots/atom-open-or-create.png)
 
 
 Open with CodeRunner
